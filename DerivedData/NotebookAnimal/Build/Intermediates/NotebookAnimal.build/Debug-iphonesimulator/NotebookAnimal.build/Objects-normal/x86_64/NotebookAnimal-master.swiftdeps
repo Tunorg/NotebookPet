@@ -1,0 +1,12 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "eb6ba0bcdf9cbb65341b730575907084"
+build_time: [517247508, 636119000]
+inputs:
+  "/Users/nikolay/Documents/FolderWorkSwift/NotebookAnimal/NotebookAnimal/iCloudNotebookPetTableViewControllerTableViewController.swift": [517215329, 0]
+  "/Users/nikolay/Documents/FolderWorkSwift/NotebookAnimal/NotebookAnimal+CoreDataProperties.swift": [517124444, 0]
+  "/Users/nikolay/Documents/FolderWorkSwift/NotebookAnimal/NotebookAnimal/iCloudCustomTableViewCell.swift": [517147977, 0]
+  "/Users/nikolay/Documents/FolderWorkSwift/NotebookAnimal/NotebookAnimal/CustomTableViewCell.swift": [517147977, 0]
+  "/Users/nikolay/Documents/FolderWorkSwift/NotebookAnimal/NotebookAnimal/AddPetViewController.swift": [517247508, 0]
+  "/Users/nikolay/Documents/FolderWorkSwift/NotebookAnimal/NotebookAnimal.swift": [517124444, 0]
+  "/Users/nikolay/Documents/FolderWorkSwift/NotebookAnimal/NotebookAnimal/NotebookPetTablewViewController.swift": [517210361, 0]
+  "/Users/nikolay/Documents/FolderWorkSwift/NotebookAnimal/NotebookAnimal/AppDelegate.swift": [517065309, 0]

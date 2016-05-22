@@ -1,0 +1,63 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["C14NotebookAnimal14NotebookAnimal", ""]
+- ["C14NotebookAnimal14NotebookAnimal", "namePet"]
+- ["C14NotebookAnimal14NotebookAnimal", "kindOfPet"]
+provides-dynamic-lookup:
+- "namePet"
+- "kindOfPet"
+depends-top-level:
+- "NotebookAnimal"
+- "String"
+depends-member:
+- ["Ps9AnyObject", "kindOfPet"]
+- ["Ps9AnyObject", "namePet"]
+- ["Ps11CVarArgType", "kindOfPet"]
+- ["Ps11CVarArgType", "namePet"]
+- ["Ps28CustomDebugStringConvertible", "kindOfPet"]
+- ["Ps28CustomDebugStringConvertible", "namePet"]
+- ["Ps23CustomStringConvertible", "kindOfPet"]
+- ["Ps23CustomStringConvertible", "namePet"]
+- ["Ps9Equatable", "kindOfPet"]
+- ["Ps9Equatable", "namePet"]
+- ["Ps8Hashable", "kindOfPet"]
+- ["Ps8Hashable", "namePet"]
+- ["CSo15NSManagedObject", "String"]
+- ["CSo15NSManagedObject", "kindOfPet"]
+- ["CSo15NSManagedObject", "namePet"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "kindOfPet"]
+- ["CSo8NSObject", "namePet"]
+- ["PSo16NSObjectProtocol", "kindOfPet"]
+- ["PSo16NSObjectProtocol", "namePet"]
+- ["C14NotebookAnimal14NotebookAnimal", "String"]
+- ["C14NotebookAnimal14NotebookAnimal", "kindOfPet"]
+- ["C14NotebookAnimal14NotebookAnimal", "namePet"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "CSo15NSManagedObject"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C14NotebookAnimal14NotebookAnimal"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CloudKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Contacts.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+interface-hash: "b7ea559b5adf3f38118898476edc956d"

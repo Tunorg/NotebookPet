@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Kind</key>
+	<array>
+		<string>Собака</string>
+		<string>Кошка</string>
+		<string>Птица</string>
+		<string>Грызун</string>
+		<string>Кролик</string>
+		<string>Хорьки</string>
+		<string>Паук</string>
+		<string>Змея</string>
+		<string>Змея</string>
+	</array>
+</dict>
+</plist>

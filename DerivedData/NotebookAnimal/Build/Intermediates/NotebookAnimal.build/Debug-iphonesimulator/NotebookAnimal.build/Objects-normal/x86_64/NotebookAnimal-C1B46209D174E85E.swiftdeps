@@ -1,0 +1,80 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NotebookAnimal"
+provides-nominal:
+- "C14NotebookAnimal14NotebookAnimal"
+provides-member:
+- ["C14NotebookAnimal14NotebookAnimal", ""]
+provides-dynamic-lookup:
+- "kindOfPet"
+- "namePet"
+depends-top-level:
+- "String"
+- "NSManagedObject"
+- "NotebookAnimal"
+depends-member:
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "kindOfPet"]
+- ["Ps9AnyObject", "namePet"]
+- ["Ps9AnyObject", ""]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "kindOfPet"]
+- ["Ps11CVarArgType", "namePet"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "kindOfPet"]
+- ["Ps28CustomDebugStringConvertible", "namePet"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "kindOfPet"]
+- ["Ps23CustomStringConvertible", "namePet"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "kindOfPet"]
+- ["Ps9Equatable", "namePet"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "kindOfPet"]
+- ["Ps8Hashable", "namePet"]
+- ["Ps8Hashable", ""]
+- ["CSo15NSManagedObject", "String"]
+- ["CSo15NSManagedObject", "init"]
+- ["CSo15NSManagedObject", "kindOfPet"]
+- ["CSo15NSManagedObject", "namePet"]
+- ["CSo15NSManagedObject", ""]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "kindOfPet"]
+- ["CSo8NSObject", "namePet"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "kindOfPet"]
+- ["PSo16NSObjectProtocol", "namePet"]
+- ["PSo16NSObjectProtocol", ""]
+- ["C14NotebookAnimal14NotebookAnimal", "String"]
+- ["C14NotebookAnimal14NotebookAnimal", "deinit"]
+- ["C14NotebookAnimal14NotebookAnimal", "init"]
+- ["C14NotebookAnimal14NotebookAnimal", "kindOfPet"]
+- ["C14NotebookAnimal14NotebookAnimal", "namePet"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "CSo15NSManagedObject"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C14NotebookAnimal14NotebookAnimal"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+interface-hash: "76bc783ea90ab0be48de412dfe235176"
